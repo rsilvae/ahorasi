@@ -1,12 +1,10 @@
 # ahorasi
 
-Paso 0 >> instalar python
+Paso 0 >> Ejecutar el comando git clone https://github.com/rsilvae/ahorasi/edit/main/README.md
 
-Paso 1 >> descargar y configurar visual studio code
+Paso 1 >> descargar y python en el siguiente url ( https://www.python.org/downloads/ )
 
-Paso 2 >> crear un archivo .py
+Paso 2 >> verificar que python sea su variable de entorno
 
-Paso 3 >> abrir archivo en vsc
-
-Paso 4 >> escribir la siguiente linea [ print("Hola Mundo") ]
+Paso 3 >> en la terminal ir a la ruta de donde se descargo el repositorio y ejecutar 45.py
 
